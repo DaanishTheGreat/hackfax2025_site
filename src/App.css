@@ -1,0 +1,180 @@
+@import url('https://fonts.googleapis.com/css?family=Goldman');
+
+body {
+  /* Dark background with a subtle gradient for extra flair */
+  background: linear-gradient(160deg, #001b06 0%, #000000 100%);
+  color: #ffffff;
+  font-family: 'Goldman', cursive;
+  margin: 0;
+  padding: 0;
+
+  /* Because navbar is fixed-top, add top padding so content isn't hidden behind it */
+  padding-top: 70px; 
+}
+
+.app-container {
+  min-height: 100vh;
+}
+
+/* NAVBAR THEME */
+.navbar-light.bg-light {
+  background-color: #002d08 !important; /* Dark green for top nav */
+  border-bottom: 2px solid #ffa500;
+}
+.navbar-light .navbar-brand {
+  color: #ffa500 !important;
+  font-weight: bold;
+}
+.navbar-light .navbar-brand:hover {
+  color: #ffcc00 !important;
+}
+.navbar-light .navbar-nav .nav-link {
+  color: #ffa500 !important;
+  transition: color 0.3s ease;
+}
+.navbar-light .navbar-nav .nav-link:hover {
+  color: #ffcc00 !important;
+  text-shadow: 0 0 5px #ffcc00;
+}
+
+/* BANNER WRAPPER */
+.banner-wrapper {
+  position: relative;
+  overflow: hidden;
+}
+
+/* Banner Image with a pulsing halo */
+.banner-image {
+  width: 100%;
+  max-height: 60vh;
+  object-fit: cover;
+  border-radius: 8px;
+  animation: haloPulse 3s infinite;
+}
+
+@keyframes haloPulse {
+  0% {
+    box-shadow: 0 0 10px #ffa500, 0 0 20px #ffa500;
+  }
+  50% {
+    box-shadow: 0 0 30px #ffcc00, 0 0 60px #ffcc00;
+  }
+  100% {
+    box-shadow: 0 0 10px #ffa500, 0 0 20px #ffa500;
+  }
+}
+
+/* LINKS BELOW THE BANNER */
+.link-row {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+.banner-btn {
+  background-color: #001b06;
+  color: #ffa500;
+  font-weight: bold;
+  text-decoration: none;
+  padding: 0.5rem 1rem;
+  border: 2px solid #ffa500;
+  border-radius: 4px;
+  transition: all 0.3s ease;
+}
+.banner-btn:hover {
+  color: #ffcc00;
+  border-color: #ffcc00;
+  text-shadow: 0 0 5px #ffcc00;
+}
+
+/* PRESENTED HEADING */
+.presented-heading {
+  font-size: 1.5rem;
+}
+.csclub-highlight {
+  color: #ffcc00; /* Dark yellow highlight */
+}
+
+/* NEON SECTIONS */
+.neon-section {
+  border: 2px solid #ffa500;
+  box-shadow: 0 0 10px #ffa500;
+  border-radius: 8px;
+  padding: 1.5rem;
+  margin-bottom: 3rem;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+.neon-section:hover {
+  transform: scale(1.02);
+  box-shadow: 0 0 20px #ffcc00;
+}
+
+/* FLARED BUTTONS */
+.btn-flair {
+  background: linear-gradient(to right, #ffa500, #ffcc00);
+  color: #001b06 !important;
+  font-weight: bold;
+  border: none;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+.btn-flair:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 15px rgba(255, 204, 0, 0.7);
+}
+
+/* VS CODE–LIKE SNIPPET */
+.vscode-snippet {
+  background-color: #1e1e1e; /* typical VS Code dark background */
+  color: #d4d4d4;            /* typical VS Code text */
+  padding: 1rem;
+  border-radius: 6px;
+  overflow-x: auto;
+  font-family: "Consolas", "Courier New", monospace;
+  box-shadow: 0 0 10px #ffa500;
+}
+
+.vscode-snippet code {
+  white-space: pre;
+  display: block;
+}
+
+/* DARK THEME FOR TABLES IN SCHEDULE */
+.table-dark-custom {
+  background-color: #002d08;
+  color: #ffa500;
+}
+.table-dark-custom thead tr {
+  background-color: #001b06;
+  color: #ffcc00;
+}
+.table-dark-custom tbody tr td {
+  border-color: #ffa500;
+}
+
+/* FOOTER */
+footer.bg-light {
+  background-color: #002d08 !important;
+  border-top: 2px solid #ffa500;
+}
+footer a {
+  color: #ffa500;
+  text-decoration: none;
+}
+footer a:hover {
+  color: #ffcc00;
+  text-decoration: underline;
+}
+
+/* FOOTER ICONS */
+.footer-icon {
+  width: 20px;
+  height: 20px;
+  margin-right: 5px;
+  vertical-align: middle;
+}
+.footer-icon-link a {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+}
