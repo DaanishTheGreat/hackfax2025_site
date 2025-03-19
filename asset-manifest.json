@@ -1,15 +1,20 @@
 {
   "files": {
-    "main.css": "/hackfax2025_site/static/css/main.b7b08f56.css",
-    "main.js": "/hackfax2025_site/static/js/main.bb7e5460.js",
+    "main.css": "/hackfax2025_site/static/css/main.f208805b.css",
+    "main.js": "/hackfax2025_site/static/js/main.ea504506.js",
     "static/js/453.56c6a36e.chunk.js": "/hackfax2025_site/static/js/453.56c6a36e.chunk.js",
+    "static/media/Instagram_icon.png": "/hackfax2025_site/static/media/Instagram_icon.db2612bd586501d9ed3e.png",
+    "static/media/logo.png": "/hackfax2025_site/static/media/logo.8abc11a687d882cf73fc.png",
+    "static/media/Coming_soon.png": "/hackfax2025_site/static/media/Coming_soon.8872fe8112de313c372c.png",
+    "static/media/linkedin_icon.png": "/hackfax2025_site/static/media/linkedin_icon.e7d5f9ac7b89a7780771.png",
+    "static/media/hackfax2025_title.png": "/hackfax2025_site/static/media/hackfax2025_title.a9a73f31753df3c5b33b.png",
     "index.html": "/hackfax2025_site/index.html",
-    "main.b7b08f56.css.map": "/hackfax2025_site/static/css/main.b7b08f56.css.map",
-    "main.bb7e5460.js.map": "/hackfax2025_site/static/js/main.bb7e5460.js.map",
+    "main.f208805b.css.map": "/hackfax2025_site/static/css/main.f208805b.css.map",
+    "main.ea504506.js.map": "/hackfax2025_site/static/js/main.ea504506.js.map",
     "453.56c6a36e.chunk.js.map": "/hackfax2025_site/static/js/453.56c6a36e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b7b08f56.css",
-    "static/js/main.bb7e5460.js"
+    "static/css/main.f208805b.css",
+    "static/js/main.ea504506.js"
   ]
 }
