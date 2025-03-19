@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hackfax2025_site/static/css/main.b7b08f56.css",
+    "main.js": "/hackfax2025_site/static/js/main.bb7e5460.js",
+    "static/js/453.56c6a36e.chunk.js": "/hackfax2025_site/static/js/453.56c6a36e.chunk.js",
+    "index.html": "/hackfax2025_site/index.html",
+    "main.b7b08f56.css.map": "/hackfax2025_site/static/css/main.b7b08f56.css.map",
+    "main.bb7e5460.js.map": "/hackfax2025_site/static/js/main.bb7e5460.js.map",
+    "453.56c6a36e.chunk.js.map": "/hackfax2025_site/static/js/453.56c6a36e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b7b08f56.css",
+    "static/js/main.bb7e5460.js"
+  ]
+}
