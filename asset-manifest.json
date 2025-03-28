@@ -1,20 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.24b71483.css",
-    "main.js": "/static/js/main.82e4a53c.js",
+    "main.css": "/static/css/main.f22a25eb.css",
+    "main.js": "/static/js/main.06be15bd.js",
     "static/js/453.56c6a36e.chunk.js": "/static/js/453.56c6a36e.chunk.js",
     "static/media/Instagram_icon.png": "/static/media/Instagram_icon.db2612bd586501d9ed3e.png",
     "static/media/logo.png": "/static/media/logo.8abc11a687d882cf73fc.png",
+    "static/media/LetsDefend.png": "/static/media/LetsDefend.e1e5a3669dc0365d4a1f.png",
     "static/media/Coming_soon.png": "/static/media/Coming_soon.8872fe8112de313c372c.png",
+    "static/media/Desmos.png": "/static/media/Desmos.168e5feac1eddbda055f.png",
+    "static/media/Hack5.png": "/static/media/Hack5.aeb1f160f79a392ae773.png",
+    "static/media/Oracle.png": "/static/media/Oracle.7fb48f68a70886cb6db9.png",
     "static/media/linkedin_icon.png": "/static/media/linkedin_icon.e7d5f9ac7b89a7780771.png",
     "static/media/hackfax2025_title.png": "/static/media/hackfax2025_title.a9a73f31753df3c5b33b.png",
     "index.html": "/index.html",
-    "main.24b71483.css.map": "/static/css/main.24b71483.css.map",
-    "main.82e4a53c.js.map": "/static/js/main.82e4a53c.js.map",
+    "main.f22a25eb.css.map": "/static/css/main.f22a25eb.css.map",
+    "main.06be15bd.js.map": "/static/js/main.06be15bd.js.map",
     "453.56c6a36e.chunk.js.map": "/static/js/453.56c6a36e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.24b71483.css",
-    "static/js/main.82e4a53c.js"
+    "static/css/main.f22a25eb.css",
+    "static/js/main.06be15bd.js"
   ]
 }
