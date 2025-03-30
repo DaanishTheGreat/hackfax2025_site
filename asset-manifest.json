@@ -1,24 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.32d7e7a1.css",
-    "main.js": "/static/js/main.bcc0e605.js",
+    "main.css": "/static/css/main.c006ce84.css",
+    "main.js": "/static/js/main.591ea78b.js",
     "static/js/453.56c6a36e.chunk.js": "/static/js/453.56c6a36e.chunk.js",
     "static/media/Instagram_icon.png": "/static/media/Instagram_icon.db2612bd586501d9ed3e.png",
     "static/media/logo.png": "/static/media/logo.8abc11a687d882cf73fc.png",
     "static/media/Coming_soon.png": "/static/media/Coming_soon.8872fe8112de313c372c.png",
     "static/media/LetsDefend.png": "/static/media/LetsDefend.45d57e2341f2cc69b367.png",
     "static/media/Desmos.png": "/static/media/Desmos.d53fe0cff05a46b34c8e.png",
+    "static/media/VACyberRange.png": "/static/media/VACyberRange.c2ef85dc752715f2cf3a.png",
     "static/media/Hack5.png": "/static/media/Hack5.a745f4a6cc0eb51ac6c0.png",
     "static/media/Oracle.png": "/static/media/Oracle.7fb48f68a70886cb6db9.png",
     "static/media/linkedin_icon.png": "/static/media/linkedin_icon.e7d5f9ac7b89a7780771.png",
     "static/media/hackfax2025_title.png": "/static/media/hackfax2025_title.a9a73f31753df3c5b33b.png",
+    "static/media/discordlogo.svg": "/static/media/discordlogo.d1d464bd6481a21fcde599e0d8699273.svg",
     "index.html": "/index.html",
-    "main.32d7e7a1.css.map": "/static/css/main.32d7e7a1.css.map",
-    "main.bcc0e605.js.map": "/static/js/main.bcc0e605.js.map",
+    "main.c006ce84.css.map": "/static/css/main.c006ce84.css.map",
+    "main.591ea78b.js.map": "/static/js/main.591ea78b.js.map",
     "453.56c6a36e.chunk.js.map": "/static/js/453.56c6a36e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.32d7e7a1.css",
-    "static/js/main.bcc0e605.js"
+    "static/css/main.c006ce84.css",
+    "static/js/main.591ea78b.js"
   ]
 }
