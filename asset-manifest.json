@@ -1,12 +1,13 @@
 {
   "files": {
     "main.css": "/static/css/main.74f495ab.css",
-    "main.js": "/static/js/main.f5493d41.js",
+    "main.js": "/static/js/main.3d87d456.js",
     "static/js/453.56c6a36e.chunk.js": "/static/js/453.56c6a36e.chunk.js",
     "static/media/Instagram_icon.png": "/static/media/Instagram_icon.db2612bd586501d9ed3e.png",
     "static/media/logo.png": "/static/media/logo.8abc11a687d882cf73fc.png",
     "static/media/Coming_soon.png": "/static/media/Coming_soon.8872fe8112de313c372c.png",
     "static/media/LetsDefend.png": "/static/media/LetsDefend.45d57e2341f2cc69b367.png",
+    "static/media/CodePath.png": "/static/media/CodePath.0291be915a3c07d363c5.png",
     "static/media/TahirLogo.png": "/static/media/TahirLogo.cedb0a6e645edb669c27.png",
     "static/media/Desmos.png": "/static/media/Desmos.d53fe0cff05a46b34c8e.png",
     "static/media/VACyberRange.png": "/static/media/VACyberRange.c2ef85dc752715f2cf3a.png",
@@ -17,11 +18,11 @@
     "static/media/discordlogo.svg": "/static/media/discordlogo.d1d464bd6481a21fcde599e0d8699273.svg",
     "index.html": "/index.html",
     "main.74f495ab.css.map": "/static/css/main.74f495ab.css.map",
-    "main.f5493d41.js.map": "/static/js/main.f5493d41.js.map",
+    "main.3d87d456.js.map": "/static/js/main.3d87d456.js.map",
     "453.56c6a36e.chunk.js.map": "/static/js/453.56c6a36e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.74f495ab.css",
-    "static/js/main.f5493d41.js"
+    "static/js/main.3d87d456.js"
   ]
 }
